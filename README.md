@@ -1,6 +1,10 @@
+# Diego Jacob Dondiego Jaime
 ## Hi there 👋
+### Lenguaje python
+```python
+print("Hola, mundo")
+```
 
-<!--
 **DiegoJacobDondiego/DiegoJacobDondiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+<!-- para mensajes-->
